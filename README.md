@@ -52,6 +52,42 @@ Viết báo cáo mô tả quá trình triển khai và đề xuất cải thiệ
 
 # 2. Data Analytics
 
+Khóa học Google Data Analytics Professional Certificate gồm 8 khóa học chính (cộng thêm khóa AI tùy chọn), mỗi khóa tập trung vào một giai đoạn cụ thể của quy trình phân tích dữ liệu, với thời lượng từ 11-25 giờ và các bài tập thực hành.
+​
+Mỗi khóa nhấn mạnh kỹ năng thực tế sử dụng Excel, SQL, Tableau, R, kèm bài kiểm tra và dự án.
+​
+
+Khóa 1: Foundations
+Khóa giới thiệu khái niệm cơ bản về dữ liệu, phân tích dữ liệu và hệ sinh thái dữ liệu; đánh giá tư duy phân tích; vai trò của bảng tính, ngôn ngữ truy vấn và công cụ trực quan hóa; mô tả công việc data analyst.
+​
+
+Khóa 2: Ask Questions
+Học áp dụng lộ trình giải quyết vấn đề; sử dụng dữ liệu trong quyết định; thao tác cơ bản bảng tính; tư duy có cấu trúc.
+​
+
+Khóa 3: Prepare Data
+Xem xét yếu tố thu thập dữ liệu; phân biệt dữ liệu thiên vị/không thiên vị; cấu trúc cơ sở dữ liệu; thực hành tổ chức dữ liệu tốt nhất.
+​
+
+Khóa 4: Process Data
+Xử lý tính toàn vẹn dữ liệu và rủi ro; làm sạch biến chuỗi bằng SQL; viết truy vấn SQL cơ bản; xác minh kết quả làm sạch.
+​
+
+Khóa 5: Analyze Data
+Sắp xếp/lọc dữ liệu trước phân tích; chuyển đổi/định dạng dữ liệu; kết hợp bảng bằng SQL; tính toán cơ bản trên bảng tính.
+​
+
+Khóa 6: Share Data
+Sử dụng trực quan hóa để trình bày dữ liệu; giới thiệu Tableau; kể chuyện dữ liệu; nguyên tắc thuyết trình hiệu quả.
+​
+
+Khóa 7: Data Analysis with R
+Giới thiệu ngôn ngữ R và môi trường; khái niệm lập trình cơ bản (hàm, biến, vector, pipe); trực quan hóa trong R; định dạng R Markdown.
+​
+
+Khóa 8: Capstone Project
+Hoàn thành case study thực tế áp dụng toàn bộ quy trình; xây dựng portfolio; giao tiếp với nhà tuyển dụng.
+​
 # 3. Project Management
 
 # 4. UX Design
