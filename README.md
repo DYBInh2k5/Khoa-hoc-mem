@@ -90,6 +90,56 @@ Hoàn thành case study thực tế áp dụng toàn bộ quy trình; xây dựn
 ​
 # 3. Project Management
 
+Tổng quan chứng chỉ
+Gồm 6 khóa: Foundations, Initiation, Planning, Execution, Agile, Capstone.
+​
+
+Học xong có thể làm các vị trí như quản lý dự án, điều phối viên dự án, trợ lý dự án, quản lý vận hành….
+​
+
+1. Foundations of Project Management
+Hiểu khái niệm cơ bản về quản lý dự án, vòng đời dự án, vai trò và trách nhiệm của project manager.
+​
+
+Học về phạm vi (scope), mục tiêu, chỉ số thành công, các nhóm quy trình quản lý dự án và kỹ năng mềm như giao tiếp, làm việc nhóm, lãnh đạo.
+​
+
+2. Project Initiation: Starting a Successful Project
+Học cách phân tích nhu cầu, xác định stakeholder, viết project charter, xác định mục tiêu và phạm vi sơ bộ của dự án.
+​
+
+Tìm hiểu các rủi ro ban đầu, tính khả thi, và cách trình bày đề xuất dự án cho lãnh đạo/phê duyệt.
+​
+
+3. Project Planning: Putting It All Together
+Tập trung vào giai đoạn lập kế hoạch: xác định công việc, tạo WBS, ước lượng thời gian, sắp xếp lịch, đặt mốc (milestone).
+​
+
+Lập ngân sách, kế hoạch nguồn lực, kế hoạch truyền thông, quản lý rủi ro và cơ bản về quy trình mua sắm (procurement).
+​
+
+4. Project Execution: Running the Project
+Học cách triển khai kế hoạch: phân công công việc, theo dõi tiến độ, họp nhóm, quản lý thay đổi và xử lý vấn đề phát sinh.
+​
+
+Dùng các công cụ theo dõi (tracker, dashboard), cập nhật báo cáo trạng thái cho stakeholders và giữ đội nhóm làm việc hiệu quả.
+​
+
+5. Agile Project Management
+Giới thiệu tư duy Agile, các framework như Scrum, vai trò Product Owner, Scrum Master, Development Team.
+​
+
+Học về backlog, sprint planning, daily standup, sprint review/retrospective và cách kết hợp Agile với môi trường doanh nghiệp thực tế.
+​
+
+6. Capstone: Applying Project Management in the Real World
+Áp dụng toàn bộ kỹ năng đã học để làm một dự án “giả lập” thực tế: từ khởi tạo, lập kế hoạch đến triển khai và kết thúc.
+​
+​
+
+Hoàn thiện bộ tài liệu: charter, kế hoạch, lịch trình, ngân sách, báo cáo, artifact Agile… tạo thành portfolio để xin việc.
+​
+​
 # 4. UX Design
 
 # 5. Digital marketing
