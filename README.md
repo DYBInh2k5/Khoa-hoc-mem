@@ -142,6 +142,52 @@ Hoàn thiện bộ tài liệu: charter, kế hoạch, lịch trình, ngân sác
 ​
 # 4. UX Design
 
+Khóa UX Design này giúp học viên nắm toàn bộ quy trình thiết kế trải nghiệm người dùng, từ kiến thức nền tảng đến thực hành công cụ (Figma, Adobe XD) và hoàn thành tối thiểu 3 dự án trong portfolio.
+​
+
+Thời lượng và mục tiêu
+Thời gian hoàn thành dự kiến khoảng 6 tháng, với mức học trung bình khoảng 10 giờ mỗi tuần, học linh hoạt theo lịch cá nhân.
+​
+
+Mục tiêu là giúp học viên xây dựng lộ trình nghề nghiệp UX, hiểu quy trình thiết kế toàn diện và các khái niệm cơ bản về nghiên cứu UX.
+​
+
+Nội dung từng phần chính
+Phần 1: Kiến thức cơ bản về thiết kế trải nghiệm người dùng (UX), khái niệm, vai trò, thuật ngữ nền tảng.
+​
+
+Phần 2: Bắt đầu quy trình UX với các bước thấu cảm người dùng, xác định vấn đề và lên ý tưởng giải pháp.
+​
+
+Phần 3: Xây dựng wireframe và prototype độ trung thực thấp (low-fidelity) để phác thảo cấu trúc và luồng trải nghiệm.
+​
+
+Phần 4: Thực hiện nghiên cứu UX và kiểm thử nội dung ban đầu với người dùng để thu thập phản hồi.
+​
+
+Phần 5: Thiết kế và tạo prototype độ trung thực cao (high-fidelity) bằng Figma.
+​
+
+Phần 6: Thiết kế web đáp ứng (responsive web design) bằng Adobe XD.
+​
+
+Kết quả đầu ra sau khóa
+Có portfolio với hơn 3 dự án UX hoàn chỉnh để dùng khi xin việc.
+​
+
+Có kinh nghiệm thực hành với hai công cụ chính là Figma và Adobe XD.
+​
+
+Nắm được các khái niệm cốt lõi như nghiên cứu người dùng, thiết kế sprint, khả năng tiếp cận (accessibility) và vai trò của nghiên cứu UX trong thiết kế.
+​
+
+Ngôn ngữ học và hình thức
+Khóa học được giảng dạy bằng tiếng Anh, nội dung trực tuyến và người học chủ động sắp xếp thời gian.
+​
+
+Cơ hội nghề nghiệp
+Sau khi hoàn thành, học viên có thể ứng tuyển các vị trí như: Chuyên viên UI/UX, thiết kế web, thiết kế web thương mại điện tử, trợ lý thiết kế web, chuyên viên nghiên cứu UX, thiết kế sản phẩm, thiết kế UI, thiết kế công nghiệp, quản lý thiết kế web hoặc thiết kế đồ họa.
+​
 # 5. Digital marketing
 
 # 6. Google Advanced Data Analytics
