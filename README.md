@@ -192,6 +192,125 @@ Sau khi hoàn thành, học viên có thể ứng tuyển các vị trí như: C
 
 # 6. Google Advanced Data Analytics
 
+Khóa này xây trên nền tảng chứng chỉ Data Analytics cơ bản, chuyển sang tư duy data science và phân tích nâng cao. Các mảng chính gồm:
+​
+​
+
+Giới thiệu nghề data & data science:
+
+Vai trò của data analyst, senior analyst, data scientist trong tổ chức.
+
+Ứng dụng advanced analytics trong ra quyết định, chiến lược, tối ưu vận hành.
+​
+​
+
+Công cụ & môi trường làm việc:
+
+Jupyter Notebook, Python (bao gồm lập trình hướng đối tượng cơ bản), thư viện phân tích.
+
+Tableau để trực quan hóa, kể chuyện bằng dữ liệu (data storytelling).
+​
+​
+
+Thống kê & phân tích số liệu nâng cao:
+
+Mô tả dữ liệu, phân phối xác suất, lấy mẫu.
+
+Kiểm định giả thuyết, suy luận thống kê bằng Python.
+​
+
+Hồi quy & mô hình dự đoán:
+
+Xây dựng và diễn giải mô hình hồi quy tuyến tính và logistic.
+
+Đánh giá mô hình, hiểu giả định và giới hạn mô hình.
+​
+
+Machine learning cơ bản:
+
+Các loại học máy (supervised, unsupervised…).
+
+Chuẩn bị dữ liệu, feature engineering, chọn mô hình và metric phù hợp.
+
+Xây và đánh giá mô hình ML bằng Python.
+​
+​
+
+Dự án cuối khóa (capstone):
+
+Làm một case study end‑to‑end: từ hiểu bài toán kinh doanh, xử lý dữ liệu, phân tích, model đến trình bày insight cho stakeholder.
+
+Dùng chính dự án này để cho vào portfolio khi xin việc.
+​
+
+Lộ trình các môn trong chứng chỉ
+Theo mô tả chính thức, chứng chỉ gồm chuỗi 7–8 học phần, nên học theo đúng thứ tự vì kiến thức “xây tầng”. Các môn chính:
+​
+
+Foundations of Data Science: tổng quan nghề, use case, đạo đức & quyền riêng tư dữ liệu, cách làm việc trong team data.
+​
+
+Get Started with Python: làm quen Python cho phân tích, thao tác dữ liệu, lập trình cơ bản và OOP mức nền tảng.
+​
+
+Go Beyond the Numbers: Translate Data into Insights: kỹ năng kể chuyện bằng dữ liệu, trình bày insight cho đối tượng không chuyên.
+​
+
+The Power of Statistics: thống kê mô tả, phân phối, kiểm định, phân tích bằng Python.
+​
+
+Regression Analysis: Simplify Complex Data Relationships: hồi quy tuyến tính & logistic, đánh giá và diễn giải mô hình.
+​
+
+The Nuts and Bolts of Machine Learning: quy trình ML, chuẩn bị dữ liệu, supervised/unsupervised, chọn mô hình & metric.
+​
+
+Advanced Data Analytics Capstone / Data Analytics Capstone Project: hoàn thành case study thực tế để làm sản phẩm portfolio.
+​
+
+Học xong làm được những gì?
+Hoàn thành khóa này, về kỹ năng bạn có thể:
+
+Kỹ thuật & phân tích:
+
+Xử lý, khám phá, trực quan hóa dataset vừa và lớn bằng Python/Jupyter và Tableau.
+
+Thực hiện thống kê suy luận, A/B test cơ bản, đọc hiểu kết quả cho business.
+​
+​
+
+Xây, đánh giá và giải thích mô hình hồi quy, một số mô hình ML cơ bản, hiểu được rủi ro và giới hạn khi triển khai.
+​
+
+Nghề nghiệp & sản phẩm:
+
+Có portfolio gồm các project mô phỏng tình huống nghề nghiệp thực tế (đặc biệt là capstone) để đưa vào CV/LinkedIn.
+
+Biết cách trình bày insight, đề xuất giải pháp dựa trên dữ liệu cho nhà quản lý, khách hàng nội bộ.
+​
+
+Cơ hội nghề nghiệp sau khóa
+Chứng chỉ này được Google định vị cho những người đã có nền tảng data analytics muốn “nhảy” lên vai trò phân tích nâng cao hoặc bán data science. Một số điểm quan trọng:
+​
+​
+
+Vị trí mục tiêu (tùy kinh nghiệm nền tảng):
+
+Senior Data Analyst, Data Analyst II.
+
+Associate/Junior Data Scientist, Data Science Analyst.
+
+Data Analytics Consultant, Data Analytics Scientist.
+​
+
+Cơ hội & mạng lưới:
+
+Google quảng bá là cho phép kết nối với hơn 150+ nhà tuyển dụng đối tác đang tuyển vị trí data analytics/data science.
+​
+
+Theo khảo sát nội bộ của chương trình, khoảng 75% học viên báo cáo có kết quả nghề nghiệp tích cực (việc mới, tăng lương, thăng chức) trong vòng 6 tháng sau khi hoàn thành, dù kết quả thực tế còn phụ thuộc rất nhiều vào nền tảng, ngoại ngữ, portfolio và thị trường địa phương.
+​
+
 # 7. Cybersecurity Cert
 
 Khóa Google Cybersecurity Certificate gồm 8 học phần, đi từ nền tảng an ninh mạng, rủi ro, mạng máy tính, Linux/SQL, tài sản – mối đe dọa – lỗ hổng, giám sát & ứng phó sự cố, tự động hóa bằng Python đến chuẩn bị hồ sơ xin việc; mỗi phần đều có bài lab thực hành với công cụ như SIEM (Splunk/Chronicle), IDS (Suricata), Linux, SQL, Python. Dưới đây là nội dung chi tiết từng phần kèm gợi ý tài nguyên ngoài để học sâu hơn.​​
