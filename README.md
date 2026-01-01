@@ -190,6 +190,37 @@ Sau khi hoàn thành, học viên có thể ứng tuyển các vị trí như: C
 ​
 # 5. Digital marketing
 
+Tổng quan khóa học
+Khóa học hướng dẫn tổng quát về tiếp thị kỹ thuật số và thương mại điện tử, với thời gian hoàn thành khoảng 6 tháng, trung bình 10 giờ mỗi tuần. Học viên được lựa chọn thời gian học linh hoạt phù hợp với lịch cá nhân.
+​
+
+Nội dung học tập
+Các chủ đề chính gồm:
+
+Cơ sở tiếp thị kỹ thuật số và thương mại điện tử.
+
+Thu hút, tương tác khách hàng qua các kênh như tìm kiếm, email, và nội dung.
+
+Phân tích, đo lường các chiến dịch quảng cáo, chia sẻ thông tin thực tế.
+
+Xây dựng, khởi động, quản lý cửa hàng online; duy trì chất lượng và phát triển lượng khách trung thành.
+​
+
+Các bước học hiệu quả
+Đọc kỹ từng bài giảng, ghi chú các điểm chính và các kỹ năng cần thiết cho công việc như quản lý chiến dịch, thu hút tương tác.
+
+Thực hành xây dựng chiến dịch quảng cáo trực tuyến dựa trên những kiến thức vừa học; thử tạo nội dung, gửi email và tối ưu hóa công cụ tìm kiếm.
+
+Tự đánh giá kết quả qua các bài phân tích, đo lường hiệu quả chiến dịch.
+
+Trao đổi, hỏi đáp với giảng viên hoặc đồng môn để nắm vững kiến thức.
+
+Hoàn thiện các bài tập hoặc dự án thực tế, đồng thời cập nhật và áp dụng các kỹ năng mới vào hoạt động cá nhân hoặc công việc.
+​
+
+Kết quả đầu ra
+Sau khi kết thúc, bạn có thể xây dựng chiến lược tiếp thị kỹ thuật số, vận hành cửa hàng thương mại điện tử thành công và đủ khả năng ứng tuyển vào các vị trí chuyên viên tiếp thị số, tối ưu hóa công cụ tìm kiếm, vận hành email marketing hoặc quản trị các công cụ tiếp thị online.
+
 # 6. Google Advanced Data Analytics
 
 Khóa này xây trên nền tảng chứng chỉ Data Analytics cơ bản, chuyển sang tư duy data science và phân tích nâng cao. Các mảng chính gồm:
